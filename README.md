@@ -4,3 +4,5 @@ It can also be a great addition to your CV to show how you’ve developed over t
 
 So, I decided to give it a try - I’m going to create my webpage from scratch, without knowing anything, and mostly by using ChatGPT. 
 So, yep, here it is!
+
+Your site is live at https://aija-b.github.io/aija.github.io/
